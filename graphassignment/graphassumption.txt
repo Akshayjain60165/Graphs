@@ -1,0 +1,10 @@
+I have done first question in two parts
+1. adjacency list
+2. adjacency matrix
+
+I have done 3 question in 2 parts
+1. first two parts
+2. third part of undirected graph
+
+For prime algorithm i have assumed all vertex value equal same 
+
